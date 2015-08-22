@@ -1,10 +1,10 @@
 Command Prompt Window 1
 
-cd C:\Users\Abhishek\Scala\CompilerVer1\src
-scalac -d C:\Users\Abhishek\Scala\CompilerVer1\bin *.scala
+cd Compiler_Scalar\src
+scalac -d ..\Compiler_Scalar\bin *.scala
 
 Command Prompt Window 2
 
-cd C:\Users\Abhishek\Scala\CompilerVer1\bin
+cd Compiler_Scalar\bin
 scala Compiler ..\InputFiles\simple1.tl
 
